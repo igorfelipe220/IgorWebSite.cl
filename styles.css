@@ -370,6 +370,8 @@ section.sobre-equipe > .container{
         background-color: #ffffff;
     }
 
+	.mockup img{max-width: 100%;}
+
     .show{
         opacity: 1;
     }
